@@ -1,32 +1,38 @@
-Photo credits (Australian sources only; illustrative stock — not local Camden / Narellan jobs):
+Photo credits (illustrative stock — not local Camden / Narellan jobs).
+Found via Google/Bing Image search with Creative Commons / usage-rights filters where possible.
 
-1. stump-grinder.jpg (hero)
-   "Arborists-5, Kallista, VIC, 09.07.2008"
+1. stump-grinder.jpg (hero — arborist climb)
+   Query: "tree removal Sydney arborist" / "eucalyptus arborist Australia chainsaw"
+   "Arborists-3, Kallista, VIC, 09.07.2008"
    Author: jjron — Licence: GFDL 1.2
-   Location: Kallista, Victoria, Australia — arborist crew felling eucalyptus
-   https://commons.wikimedia.org/wiki/File:Arborists-5,-Kallista,-VIC,-09.07.2008.jpg
+   Location: Kallista, Victoria, Australia — arborist section-felling eucalyptus
+   https://commons.wikimedia.org/wiki/File:Arborists-3,-Kallista,-VIC,-09.07.2008.jpg
 
 2. tree-felling.jpg
+   Query: "tree removal Sydney arborist"
    "Arborists-1, Kallista, VIC, 09.07.2008"
    Author: jjron — Licence: GFDL 1.2
-   Location: Kallista, Victoria, Australia — arborist felling eucalyptus with chainsaw
+   Location: Kallista, Victoria, Australia
    https://commons.wikimedia.org/wiki/File:Arborists-1,-Kallista,-VIC,-09.07.2008.jpg
 
-3. felled-tree.jpg
+3. stump-grinding.jpg
+   Query: "stump grinding NSW" (Bing/Google CC — no clearly AU stump-grinder photo found)
+   "Stump grinder in england arp" — Vermeer SC352 grinding a eucalyptus stump
+   Author: Adrian Pingstone (Arpingstone) — Licence: Public domain
+   https://commons.wikimedia.org/wiki/File:Stump_grinder_in_england_arp.jpg
+
+4. felled-tree.jpg
+   Query: "eucalyptus tree felling Australia"
    "Fallen Eucalyptus camaldulensis limbs"
    Author: Bidgee — Licence: CC BY-SA 3.0 AU
-   Location: Wiradjuri Walking Track, Murrumbidgee River, Wagga Wagga, NSW, Australia
+   Location: Wagga Wagga, NSW, Australia
    https://commons.wikimedia.org/wiki/File:Fallen_Eucalyptus_camaldulensis_limbs.jpg
 
-4. after-stump.jpg
+5. after-stump.jpg
+   Query: "tree removal Sydney" / Cumberland forest NSW
    "Cumberland State Forest, NSW - 1"
    Author: Jason7825 — Licence: Public domain
-   Location: Cumberland State Forest, West Pennant Hills, New South Wales, Australia
+   Location: West Pennant Hills, New South Wales, Australia
    https://commons.wikimedia.org/wiki/File:Cumberland_State_Forest,_NSW_-_1.jpg
-
-Local CSS colour panel (not a photograph):
-- Stump grinding slot uses an on-page CSS panel
-  (no free Australian stump-grinder photograph found that was clearly AU-located;
-   UK/US stump-grinder stock was removed).
 
 These are illustrative only — not photos of completed Camden / Narellan jobs.
