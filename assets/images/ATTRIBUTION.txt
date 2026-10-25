@@ -1,33 +1,32 @@
-Photo credits (stock; not local Camden / Narellan jobs):
+Photo credits (Australian sources only; illustrative stock — not local Camden / Narellan jobs):
 
-1. stump-grinder.jpg
-   "Stump grinder in england arp.jpg"
-   Author: Adrian Pingstone (Arpingstone) — Public domain
-   https://commons.wikimedia.org/wiki/File:Stump_grinder_in_england_arp.jpg
+1. stump-grinder.jpg (hero)
+   "Arborists-5, Kallista, VIC, 09.07.2008"
+   Author: jjron — Licence: GFDL 1.2
+   Location: Kallista, Victoria, Australia — arborist crew felling eucalyptus
+   https://commons.wikimedia.org/wiki/File:Arborists-5,-Kallista,-VIC,-09.07.2008.jpg
 
-2. stump-grinder-wheel.jpg
-   "Stump grinder cutting wheel arp.jpg"
-   Author: Adrian Pingstone (Arpingstone) — Public domain
-   https://commons.wikimedia.org/wiki/File:Stump_grinder_cutting_wheel_arp.jpg
+2. tree-felling.jpg
+   "Arborists-1, Kallista, VIC, 09.07.2008"
+   Author: jjron — Licence: GFDL 1.2
+   Location: Kallista, Victoria, Australia — arborist felling eucalyptus with chainsaw
+   https://commons.wikimedia.org/wiki/File:Arborists-1,-Kallista,-VIC,-09.07.2008.jpg
 
-3. stump-closeup.jpg
-   "Stump-grinder.jpg"
-   Author: Soundchecker — Public domain
-   https://commons.wikimedia.org/wiki/File:Stump-grinder.jpg
+3. felled-tree.jpg
+   "Fallen Eucalyptus camaldulensis limbs"
+   Author: Bidgee — Licence: CC BY-SA 3.0 AU
+   Location: Wiradjuri Walking Track, Murrumbidgee River, Wagga Wagga, NSW, Australia
+   https://commons.wikimedia.org/wiki/File:Fallen_Eucalyptus_camaldulensis_limbs.jpg
 
 4. after-stump.jpg
-   "After Stump Grinding Project Everett - panoramio.jpg"
-   Author: Robert Loeder — Licence: CC BY 3.0
-   https://commons.wikimedia.org/wiki/File:After_Stump_Grinding_Project_Everett_-_panoramio.jpg
+   "Cumberland State Forest, NSW - 1"
+   Author: Jason7825 — Licence: Public domain
+   Location: Cumberland State Forest, West Pennant Hills, New South Wales, Australia
+   https://commons.wikimedia.org/wiki/File:Cumberland_State_Forest,_NSW_-_1.jpg
 
-5. tree-felling.jpg
-   "Tree felling in urban setting, Russia 1.jpg"
-   Author: A.Savin — Licence: CC BY-SA 4.0
-   https://commons.wikimedia.org/wiki/File:Tree_felling_in_urban_setting,_Russia_1.jpg
+Local CSS colour panel (not a photograph):
+- Stump grinding slot uses an on-page CSS panel
+  (no free Australian stump-grinder photograph found that was clearly AU-located;
+   UK/US stump-grinder stock was removed).
 
-6. felled-tree.jpg
-   "The remains of a felled tree - geograph.org.uk - 351402.jpg"
-   Author: John Sutton — Licence: CC BY-SA 2.0
-   https://commons.wikimedia.org/wiki/File:The_remains_of_a_felled_tree_-_geograph.org.uk_-_351402.jpg
-
-These are illustrative stock photos only — not photos of completed Camden / Narellan jobs.
+These are illustrative only — not photos of completed Camden / Narellan jobs.
