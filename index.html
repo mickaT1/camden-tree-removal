@@ -357,7 +357,7 @@
 
         <div class="service-list">
           <article class="service">
-            <img src="assets/images/tree-felling.jpg" width="600" height="800" alt="Arborist section-felling a tall eucalyptus (gum) tree with a chainsaw" loading="lazy" decoding="async">
+            <img src="assets/images/arborist-section-cut.jpg" width="1400" height="933" alt="Climbing arborist cutting a tree trunk in sections with a chainsaw" loading="lazy" decoding="async">
             <div>
               <h3>Tree removal</h3>
               <p>Full removals for dead, leaning or unwanted trees. Scope depends on height, access and what’s underneath.</p>
@@ -457,19 +457,19 @@
           Thanks — your enquiry has been sent. A local arborist will follow up soon.
         </div>
 
-        <form id="lead-form" class="contact-form" action="https://formsubmit.co/micka.lewis3@gmail.com" method="POST" novalidate>
+        <form id="lead-form" class="contact-form" action="https://formsubmit.co/micka.lewis3@gmail.com" method="POST">
           <input type="hidden" name="_subject" value="New tree quote — Camden Tree Removal">
           <input type="hidden" name="_template" value="table">
           <input type="hidden" name="_captcha" value="false">
           <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
-          <input type="hidden" name="_next" value="https://mickat1.github.io/camden-tree-removal/#quote">
+          <input type="hidden" name="_next" value="https://mickat1.github.io/camden-tree-removal/?sent=1#quote">
           <p>
             <label for="name">Full name <span class="req">*</span></label>
             <input id="name" type="text" name="name" autocomplete="name" required>
           </p>
           <p>
             <label for="phone">Phone <span class="optional">(optional)</span></label>
-            <input id="phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="04xx xxx xxx">
+            <input id="phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="04xx xxx xxx" pattern="[0-9 +()]{8,16}" title="Australian phone number, e.g. 0412 345 678">
           </p>
           <p>
             <label for="email">Email <span class="req">*</span></label>
@@ -477,7 +477,7 @@
           </p>
           <p>
             <label for="suburb">Suburb <span class="req">*</span></label>
-            <input id="suburb" type="text" name="suburb" required placeholder="e.g. Camden, Narellan, Oran Park">
+            <input id="suburb" type="text" name="suburb" autocomplete="address-level2" required placeholder="e.g. Camden, Narellan, Oran Park">
           </p>
           <p>
             <label for="job_type">Job type <span class="req">*</span></label>
@@ -505,7 +505,7 @@
             <button class="btn" type="submit">Send enquiry</button>
           </p>
           <p class="form-note">
-            Privacy details are in the footer.
+            Fields marked * are required. Privacy details are in the <a href="#privacy">footer</a>.
           </p>
         </form>
       </div>
@@ -520,7 +520,7 @@
         Enquiries are passed to a local arborist with your consent.
       </p>
 
-      <div class="privacy">
+      <div class="privacy" id="privacy">
         <strong>Privacy note</strong>
         <p>
           Contact details you submit (name, email, phone if provided, suburb and project notes)
@@ -530,7 +530,15 @@
           email the address that replies to your enquiry.
         </p>
       </div>
-      <p class="meta">
+      
+      <div class="photo-credits">
+        <strong>Photo credits</strong> (illustrative stock, not local job photos)
+        <ul>
+          <li>&ldquo;<a href="https://commons.wikimedia.org/wiki/File:Fallen_Eucalyptus_camaldulensis_limbs.jpg" rel="nofollow noopener">Fallen Eucalyptus camaldulensis limbs</a>&rdquo; by Bidgee, <a href="https://creativecommons.org/licenses/by-sa/3.0/au/" rel="license nofollow noopener">CC BY-SA 3.0 AU</a></li>
+        </ul>
+        <p>Other photos: Jacky, Henk Schuurmans and Usman AbdulrasheedGambo via Pexels (Pexels License); Cumberland State Forest by Jason7825 (public domain).</p>
+      </div>
+<p class="meta">
         <span>ABN: 91 355 341 661</span>
         <span>Serving Camden &amp; Narellan, NSW</span>
         <span>© <span id="y"></span> Camden Tree Removal</span>

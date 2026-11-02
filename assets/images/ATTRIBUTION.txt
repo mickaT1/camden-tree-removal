@@ -12,9 +12,10 @@ Updated 2026-11-03: hero replaced; Vermeer (US brand) stump-grinder photo remove
    Source: https://www.pexels.com/photo/close-up-of-cut-tree-trunk-with-sawdust-outdoors-33946654/
    Licence: Pexels License
 
-3. tree-felling.jpg — "Arborists-1, Kallista, VIC, 09.07.2008", jjron, GFDL 1.2 (Kallista, Victoria, Australia)
-   https://commons.wikimedia.org/wiki/File:Arborists-1,-Kallista,-VIC,-09.07.2008.jpg
-   NOTE: GFDL is awkward for commercial web use (licence text must accompany). Swap for a Pexels/Unsplash image when convenient.
+3. arborist-section-cut.jpg (replaces GFDL tree-felling.jpg, 2026-11-03)
+   "Arborist Cutting Down Tree Trunk Safely with Chainsaw" by Henk Schuurmans
+   Source: https://www.pexels.com/photo/arborist-cutting-down-tree-trunk-safely-with-chainsaw-31127615/
+   Licence: Pexels License
 
 4. felled-tree.jpg — "Fallen Eucalyptus camaldulensis limbs", Bidgee, CC BY-SA 3.0 AU (Wagga Wagga NSW)
    https://commons.wikimedia.org/wiki/File:Fallen_Eucalyptus_camaldulensis_limbs.jpg
@@ -23,3 +24,5 @@ Updated 2026-11-03: hero replaced; Vermeer (US brand) stump-grinder photo remove
    https://commons.wikimedia.org/wiki/File:Cumberland_State_Forest,_NSW_-_1.jpg
 
 Previous hero (stump-grinder.jpg = jjron "Arborists-3", Kallista VIC, GFDL 1.2) removed.
+
+CC BY-SA credit for felled-tree.jpg is shown on-page in the footer "Photo credits" block.
